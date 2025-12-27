@@ -81,7 +81,7 @@ Each session creates a timestamped log file containing:
 
 **Log format example:**
 ```
-Timestamp, IP Address, Sensor Value
+Timestamp,               IP Address,      Sensor Value
 2025-11-23 16:53:28.616, 192.168.137.172, 406
 ```
 
