@@ -80,10 +80,10 @@ Each session creates a timestamped log file containing:
 - Total master duration per device
 
 **Log format example:**
-```text
+text
 Timestamp, IP Address, Sensor Value
 2025-11-23 16:53:28.616, 192.168.137.172, 406
-```
+
 
 ---
 
